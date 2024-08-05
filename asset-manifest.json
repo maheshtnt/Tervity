@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Tervity/static/css/main.af9b04c7.chunk.css",
+    "main.js": "/Tervity/static/js/main.12aa5295.chunk.js",
+    "main.js.map": "/Tervity/static/js/main.12aa5295.chunk.js.map",
+    "runtime-main.js": "/Tervity/static/js/runtime-main.dd297a40.js",
+    "runtime-main.js.map": "/Tervity/static/js/runtime-main.dd297a40.js.map",
+    "static/js/2.c17d2277.chunk.js": "/Tervity/static/js/2.c17d2277.chunk.js",
+    "static/js/2.c17d2277.chunk.js.map": "/Tervity/static/js/2.c17d2277.chunk.js.map",
+    "static/js/3.cc50f228.chunk.js": "/Tervity/static/js/3.cc50f228.chunk.js",
+    "static/js/3.cc50f228.chunk.js.map": "/Tervity/static/js/3.cc50f228.chunk.js.map",
+    "index.html": "/Tervity/index.html",
+    "static/css/main.af9b04c7.chunk.css.map": "/Tervity/static/css/main.af9b04c7.chunk.css.map",
+    "static/js/2.c17d2277.chunk.js.LICENSE.txt": "/Tervity/static/js/2.c17d2277.chunk.js.LICENSE.txt",
+    "static/media/React-icon.4458987c.png": "/Tervity/static/media/React-icon.4458987c.png",
+    "static/media/music-logo.154b5181.png": "/Tervity/static/media/music-logo.154b5181.png",
+    "static/media/terrorblade.db6c0722.jpg": "/Tervity/static/media/terrorblade.db6c0722.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd297a40.js",
+    "static/js/2.c17d2277.chunk.js",
+    "static/css/main.af9b04c7.chunk.css",
+    "static/js/main.12aa5295.chunk.js"
+  ]
+}
